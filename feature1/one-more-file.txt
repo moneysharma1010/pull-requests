@@ -1,0 +1,3 @@
+This file was added in the feature1 branch inside feature1 folder.
+
+One more change in the feature1 branch
